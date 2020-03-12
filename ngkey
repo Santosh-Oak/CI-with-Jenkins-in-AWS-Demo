@@ -1,0 +1,14 @@
+
+{
+  "type": "service_account",
+  "project_id": "glossy-handler-261214",
+  "private_key_id": "72b1f7a09ae8cba840966a3835dc8bdccaa9b8a2",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCj8MGpS4HATR8b\nQyc37L/lXivqlfu33AMUJqhaDPV7cPw9IlBSTL+RdPzpcy/khfCAyYJN3VZR3FR4\nxQpnkPR2QlZQy5jBl+s2SyVdJmUuAz2BsEobjp7fBQ2Ggv+xvOKRAQFo1Kb2rk8m\nBRFHPZylK+d0D1pguCp7tSy77vksZAs7BviC1lcXA2v4DEmSvaB33KeVJc/mHv2I\nElwTMJ+lYGrhiXs7MjMITPlv8tJ7h6VGnqbNmUXkSwiUrQOSPTnJEBoCbi+zQ/nv\nZTQzofjNsXx1KeH+jmwZ/7tLWWVe/e+acRh5cP3Ancqh8osqvAKtvA+OQT1AB7O1\nnWlMEE7XAgMBAAECggEANOTkBxRWm84GQEyNZczcKUwWDU0w9yRkVecXIF7YAWj1\n6V+d3L/oeyzswQGqLShN7a+WfDrys9zL4F9quPma9mD26oCWG7hBarYaKxDNSmg/\nOw2/C18bwUcnEwRHLXiM/U3+v20FJcgdv12ZMowdc2lT9y1Q8q3Y/yr4cPZsrLZi\nbjxWQehbMFbPFRMBUc5jbsNpWstW8pHlFCmFkT7wPwj751krrmGL7kz9LpMPUwos\nF4HmZrT7YB1FqKSJjf7WjaozfnzimVer/dmXoEvYQJN0xaJoeKqyg5Qq1tqj88ef\nuABK9OTJlz4zm6zNtErpSDfeiE2si70wMMuj4SxZMQKBgQDSiVMW9Xq1x9q8EH6l\n/mCHYs7oZWbc+DwzIChTUJ1oFiQXjYzywjf9pKh7ipRT5TydNkBP0EiOkM4WU8y/\np9ZyNoWo1tXTeqip/diIE++sPfo930sh34/Awn3eUppE+P9T467MNoizVRDRyHLq\nERYfM+/b2bYmIV1/N0Ie39ZRqQKBgQDHV47BYZiisW42O1TzJfPTZKiIKIJ6ax8T\nN0w8hRDkgbKGlac9YQb3JkxGc6VxKMrd0JbtsElj9PxsImmp9UTJ9qfS1AJnQoTZ\nl6xNR6S7k46lWPhnVyT8Qsi+cBclW24t4oNaz8MOYbjvF8urA7oi7SZzHnbDwkfN\nGdwD14bsfwKBgQCaGXugxWLg5PycRLJ+izdaQR9TCM2GlYdyoGoDuXDNO8+FEc2F\n7lSPKdNMQb2ZvqNkKs5d3QUOnLzLqOCns5CKHpAsabsuxIvpiOzRhU4bU23zlZnn\nnDwbCgCZFvrl2x7/5xoNTSk3od7ivgYmfwUjJ5+72pmxRSCrOeYCtTGoqQKBgFys\ndA2rVc6tNlO4GbJAvq5UaZWDX8WR74x7dNHd+xCAy4KOKIX8icR05ZkLQqrtEAM3\najNudXAnAQM0rHL7N9O8/CCjt8pRvnl6bfwvhoI+A18TkchZVzR/x9vhOKGBdCOY\n3wBk/oW9IMDnCySiQvLh1bJHQ2eW9tJ/Zy3SEUP5AoGBALRMWeWtTU9EymbT4hDV\nCNuB/+IR+rEll/sHbhiCkZJMzmuY/cQjEOwBy3c/vCozGZmPQ+wXEm33FXfbTPOo\ns6Y1u4353EspzPUq7+VzYmm9vVdvD/o+SxdjDg3bTxxe2/O/RjV7hD5DjYd3KDjH\nn3Vd+xM4zvuT5E4iOkkRsAOV\n-----END PRIVATE KEY-----\n",
+  "client_email": "kuber-santosh@glossy-handler-261214.iam.gserviceaccount.com",
+  "client_id": "102955729133623572838",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/kuber-santosh%40glossy-handler-261214.iam.gserviceaccount.com"
+}
+
