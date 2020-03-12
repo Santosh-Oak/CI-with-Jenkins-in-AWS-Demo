@@ -6,7 +6,7 @@ pipeline {
         stage('Build') {
             steps {
                 echo 'Building..new Cluster'
-		sh "createCluster.sh"
+		sh "createCluster.sh santosh-cluster"
             }
         }
         stage('Test') {
